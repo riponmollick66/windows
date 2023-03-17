@@ -1,3 +1,5 @@
 C:\Users\Ripon\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
 
-# Replack Ripon with your UserName
+# Replack Ripon with your's UserName
+After find the files change the file extension to any image formate (like png,jpeg,etc).
+you can use "Better_File_Rename" software to change file extension at once.
