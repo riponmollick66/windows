@@ -1,0 +1,2 @@
+Computer\HKEY_CURRENT_USER\Software\Realtek\Audio\RtkNGUI64\Genera\ShowTrayIcon	
+set the Value 0
