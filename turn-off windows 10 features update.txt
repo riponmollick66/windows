@@ -1,0 +1,6 @@
+1. Open Registry Editor.
+2. Go to HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
+3. Create TargetReleaseVersion registry DWORD and set to 1, it should be in hexadecimal
+4. create a registry string. Name the registry string as TargetReleaseVersionInfo. Put the Value data as the version number you want
+For example, if you want to stay on Version 2004, use 2004 as Value
+5. Close Registry Editor and reboot to make changes effective.
