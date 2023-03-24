@@ -1,0 +1,3 @@
+Computer\HKEY_CLASSES_ROOT\telnet\shell\open\command
+Change the default file;
+C:\Program Files\PuTTY\putty.exe.exe %d
