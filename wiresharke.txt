@@ -1,0 +1,7 @@
+Capture HTTP Method
+====================
+http.request.method==GET
+
+Find TLS Domain
+================
+ssl.handshake.extensions_server_name
